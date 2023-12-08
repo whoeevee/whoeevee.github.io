@@ -1,0 +1,23 @@
+:root {
+    color-scheme: dark;
+}
+
+body {
+    margin: 15px;
+    font-family: system-ui;
+    text-align: center;
+}
+
+centre {
+    height: 200px;
+    width: 400px;
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+h5 {
+    margin: 10px;
+}
